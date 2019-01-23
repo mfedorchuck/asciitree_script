@@ -5,7 +5,7 @@ Data Science - NLP computer linguistic school (Kyiv, Projector, 2019)
 Code style was stolen from Google-oriented open-source project guide:
 (http://google.github.io/styleguide/pyguide.html)
 
-First couple versions of this programm in folder "/evolution"
+First couple versions of this programm in folder "/version history"
 """
 
 
